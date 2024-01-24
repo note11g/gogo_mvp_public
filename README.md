@@ -3,6 +3,4 @@
 
 ## Demo Video
 
-
-https://github.com/note11g/gogo_mvp_public/assets/67783062/2a7395cc-f4c3-4b64-8cd2-e0f59128379d
-
+https://github.com/note11g/gogo_mvp_public/assets/67783062/9a132845-7e30-4cf3-a242-1024bd62b7a0
