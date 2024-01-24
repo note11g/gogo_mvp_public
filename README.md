@@ -1,5 +1,6 @@
 # gogo_mvp_public
 ㄱㄱ? MVP 모바일 앱 (소마 전용) 공개용 프로젝트.
+23.06 ~ 08 (Test Ended on 23.09)
 
 ## Demo Video
 
