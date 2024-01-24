@@ -1,0 +1,4 @@
+enum UploadImageType {
+  profile,
+  chat;
+}

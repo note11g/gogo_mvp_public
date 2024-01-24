@@ -1,0 +1,26 @@
+name: gogo_mvp_domain
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # model generator
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+
+  # Service Locator
+  get_it: ^7.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.2
+
+  build_runner: ^2.4.6
+  json_serializable: ^6.7.1
+  freezed: ^2.3.5
